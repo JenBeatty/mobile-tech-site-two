@@ -1,4 +1,27 @@
-mobile-tech-site-two
-====================
+OVERVIEW
+============
+Code Repository for Mobile Web Tech Module 4+ website. Demoing Initializr with additional functionalities.
 
-Second site for AAU's Mobile Web Tech Class
+INITIAL CREATION
+================
+
+February, 2014
+
+ADDED TO GIT
+============
+
+February 17, 2014
+
+SCHOOL
+=====
+
+Academy of Art University
+
+
+CONTACT
+=======
+
+Jennifer Beatty
+
+http://stoke-interactive.com
+http://behance.net/jenniferlbeatty
