@@ -73,21 +73,21 @@ body {
     ALL: Orange Theme
    =================== */
 
-.header-container {
+/*.header-container {
     border-bottom: 20px solid #e44d26;
-}
+}*/
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #e44d26;
+    /*border-top: 20px solid #e44d26;*/
 }
 
-.header-container,
+/*.header-container,
 .footer-container,
 .main aside {
     background: #f16529;
 }
-
+*/
 .title {
     color: white;
 }
@@ -111,7 +111,6 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #e44d26;
 }
 
 nav a:hover,
@@ -157,7 +156,45 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
+html,
+button,
+input,
+select,
+textarea {color: #f1f1f1;}
 
+body {font: 16px/26px 'Lato', sans-serif;}
+
+nav a:hover {color: #F3AF2E; text-decoration: none;}
+
+.flex-img {width: 100%; height: auto;}
+
+.header-container {position:relative;}
+
+.title {margin-left: 3%; color: #F0C12F;}
+
+.header-img {position: absolute; top: 0; z-index: -1;}
+
+a.nostore {color: #F0C12F; text-decoration: none;}
+
+a.nostore:hover {color: #F3AF2E;}
+
+button {
+    background-color: #F0C12F;
+    border: none;
+    font-family: Lato, Arial;
+    color: #fff;
+    padding: 2% 3%;
+    margin-top: 2%;
+
+}
+
+.button-clicked {
+    background-color: #F58728;
+}
+
+button:hover {
+    background-color: #F3AF2E;
+}
 
 
 
@@ -216,12 +253,12 @@ nav a:hover {
     WIDE: CSS3 Effects
    ==================== */
 
-    .header-container,
+   /* .header-container,
     .main aside {
         -webkit-box-shadow: 0 5px 10px #aaa;
            -moz-box-shadow: 0 5px 10px #aaa;
                 box-shadow: 0 5px 10px #aaa;
-    }
+    }*/
 
 /* ============
     WIDE: Menu
